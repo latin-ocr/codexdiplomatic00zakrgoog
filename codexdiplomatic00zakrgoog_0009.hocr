@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codexdiplomatic00zakrgoog_0009.png"; bbox 0 0 4574 6240; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 457 1999 1807 2507">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 457 1886 1807 2507">
+     <span class='ocr_line' id='line_1_1' title="bbox 457 1999 1807 2160; baseline -0.016 -1"><span class='ocrx_word' id='word_1_1' title='bbox 457 2000 800 2160; x_wconf 70' lang='lat' dir='ltr'><strong>KoossKs</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 844 1999 1593 2159; x_wconf 75' lang='lat' dir='ltr'><strong>DYPLOMATYCZNY</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1805 2131 1807 2137; x_wconf 81' lang='grc'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 719 2327 1336 2507; baseline -0.002 -51"><span class='ocrx_word' id='word_1_4' title='bbox 719 2327 1336 2507; x_wconf 80' lang='lat' dir='ltr'>WIELKOPOLSKI.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 919 2631 1130 2654">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 919 2631 1130 2654">
+     <span class='ocr_line' id='line_1_3' title="bbox 919 2631 1130 2654; baseline -0.005 0"><span class='ocrx_word' id='word_1_5' title='bbox 919 2631 1130 2654; x_wconf 59' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 462 2820 1742 2991">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 462 2820 1742 2991">
+     <span class='ocr_line' id='line_1_4' title="bbox 462 2820 1742 2991; baseline -0.002 0"><span class='ocrx_word' id='word_1_6' title='bbox 462 2831 785 2991; x_wconf 88' lang='lat' dir='ltr'>CODEX</span> <span class='ocrx_word' id='word_1_7' title='bbox 843 2828 1584 2988; x_wconf 80' lang='lat' dir='ltr'><strong>DIPLOMATICUS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1740 2820 1742 2824; x_wconf 3' lang='grc' dir='ltr'><em>Χ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 707 3155 1353 3286">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 707 3155 1353 3286">
+     <span class='ocr_line' id='line_1_5' title="bbox 707 3155 1353 3286; baseline -0.005 0"><span class='ocrx_word' id='word_1_9' title='bbox 707 3157 995 3286; x_wconf 79' lang='lat' dir='ltr'><strong>MAJORIS</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1031 3155 1353 3283; x_wconf 87' lang='lat' dir='ltr'>POLONIAE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2292 6240">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2292 6240">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2292 6240; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2292 6240; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
